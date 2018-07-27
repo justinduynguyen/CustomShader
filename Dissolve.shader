@@ -1,4 +1,4 @@
-﻿Shader "Dissolve vip bro ahihi"
+﻿Shader "Dissolve"
 {
 Properties
 {
